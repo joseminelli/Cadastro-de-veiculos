@@ -1,0 +1,5 @@
+4
+HOI7905;toyota;sw4;2019;40000.00;Carro;aaaaaaa
+KOI1456;toyota;Corolla;2020;300000.00;carro;aaaaaaa
+aaaaaaa;fiat;Mobi;2019;100000.00;carro;aaaaaaa
+ccccccc;Hyundai;HB20;2023;100000.00;Carro;bonito
