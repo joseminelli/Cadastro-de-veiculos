@@ -1,7 +1,5 @@
 # Cadastro de Veículos
 
-Este é um programa em C que permite o cadastro, edição, pesquisa e exclusão de veículos em uma loja de automóveis.
-
 ## Funcionalidades
 
 O programa oferece as seguintes funcionalidades:
